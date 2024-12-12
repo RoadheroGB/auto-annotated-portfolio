@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 我不是一名开发人员，我只是通过AI工具去实现梦想！我是一个电商从业人员，在AI时代高速发展的今天，你做好准备用AI为工作生活赋能了吗？
-    subtitle: 这是我学习的成果和经验分享，是为了让你们对AI有一个新的认识。AI它能离我们很近，我们切身感受的同时，就是我们入局提升的时刻！
+    subtitle: 这是我学习的成果和经验分享，是为了让你们对AI有一个新的认识。AI它能离我们很近，我们切身感受的同时，就是我们入局提升的时刻！- 路上侠客
     styles:
       self:
         height: auto
